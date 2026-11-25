@@ -22,7 +22,7 @@
 ###
 
 <div data-importer="profile-views" align="left">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:RehanZ-xDEv!?theme=booru-smtg&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouza?theme=booru-smtg&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
@@ -90,7 +90,7 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=RehanZ-xDEv!&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
